@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "wolfpac";
-$password = "sinisterw0lf";
+$password = "devilhel76";
 $dbname = "wolfgamestore";
 
 // Connexion à la base de données
